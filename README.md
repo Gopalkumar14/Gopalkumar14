@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=200&section=header&text=Gopalkumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Fresher&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;PHP+%7C+Java+%7C+Python;Always+Learning%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;PHP+%7C+%7C+Python;Always+Learning%2C+Always+Building" />
 
 <br/>
 
